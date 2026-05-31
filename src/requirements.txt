@@ -1,0 +1,10 @@
+certifi==2026.5.20
+charset-normalizer==3.4.7
+chess==1.11.2
+idna==3.17
+numpy==2.4.6
+opencv-python==4.13.0.92
+python-chess==1.999
+python-dotenv==1.2.2
+requests==2.34.2
+urllib3==2.7.0
